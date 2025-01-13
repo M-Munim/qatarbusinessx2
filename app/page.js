@@ -73,7 +73,7 @@ const page = () => {
         <Heading text="What people think about Us?" />
         <p className='text-3xl text-[#170F49] text-center -mt-4'>Discover what sets us apart through the voices of those we’ve served.</p>
 
-        <div className="testimonial-container pb-10 mt-10 px-4 w-10/12 mx-auto">
+        <div className="testimonial-container pb-10 mt-10 px-4 w-11/12 mx-auto">
         <Swiper
           modules={[Pagination]}
           spaceBetween={30}
